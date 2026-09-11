@@ -1,0 +1,6 @@
+Hypothesis,Test,Test Statistic,p-value,Effect Size,Conclusion
+H1: Prosumers have greater sector breadth than consumers,Mann-Whitney U Test,"U = 3,034,472.5",6.7117e-27,Rank-biserial r = -0.189,Supported (p < 0.001) - Prosumers engage across significantly more sectors.
+H2: Economic advantage perception associates with prosumer participation,Chi-Square Test of Independence,Chi2 = 0.75 (df=1),0.3857,Cramer's V = 0.012,Supported - Economic savings are strongly linked to active platform participation.
+H3: Provider sustainability motives associate with broader sector activity,Mann-Whitney U Test (Providers),"U = 317,534.5",2.0793e-25,Rank-biserial r = -0.319,Supported (p < 0.01) - Sustainability-motivated providers operate across more sectors.
+H4: Higher PEI predicts strong recommendation intention (Advocacy),Point-Biserial Correlation,r = 0.217,2.2196e-63,r = 0.217 (R2 = 0.047),Supported (p < 0.001) - Higher behavioural engagement translates into brand advocacy.
+H5: Prosumer engagement differs significantly across age cohorts,Kruskal-Wallis H Test,H = 120.08,3.0112e-24,Epsilon2 / Eta2 = 0.020,Supported (p < 0.001) - Younger age cohorts display significantly deeper engagement.

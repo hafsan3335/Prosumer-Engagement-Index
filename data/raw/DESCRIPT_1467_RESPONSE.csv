@@ -1,0 +1,975 @@
+﻿Variables~Valeurs~Etiquette
+b~1~BELGIQUE
+b~2~DANMARK
+b~3~DEUTSCHLAND
+b~4~ELLADA
+b~5~ESPANA
+b~6~SUOMI
+b~7~FRANCE
+b~8~IRELAND
+b~9~ITALIA
+b~10~LUXEMBOURG
+b~11~NEDERLAND
+b~12~ÖSTERREICH
+b~13~PORTUGAL
+b~14~SVERIGE
+b~15~UK
+b~31~BALGARIJA
+b~32~KYPROS
+b~33~CESKA REPUBLIKA
+b~34~EESTI
+b~35~MAGYARORSZAG
+b~36~LATVIA
+b~37~LIETUVA
+b~38~MALTA
+b~39~POLSKA
+b~40~ROMANIA
+b~41~SLOVENSKA REPUBLIC
+b~42~SLOVENIJA
+b~43~TURKIYE
+b~45~ISLAND
+b~46~HRVATSKA
+ph1~1~Mobile phone line
+ph1~2~Fixed telephone line
+d8~1~No, never
+d8~2~Yes, once or a few times
+d8~3~Yes, occasionally (i.e. once every few months)
+d8~4~Yes, regularly (i.e. once a month or more often)
+d8~5~DK/NA (DO NOT READ OUT)
+d8RGPS~1~Total 'Yes'
+d9~1~No, never
+d9~2~Yes, once or a few times
+d9~3~Yes, occasionally (i.e. once every few months)
+d9~4~Yes, regularly (i.e. once a month or more often)
+d9~5~DK/NA (DO NOT READ OUT)
+d9RGPS~1~Total 'Yes'
+d8d9~1~Only user
+d8d9~2~Only provider
+d8d9~3~User and provider
+d8d9~4~Not user nor provider
+q1.1~0~no  You don't know what collaborative platforms are
+q1.1~1~You don't know what collaborative platforms are
+q1.2~0~no  Poor Internet access
+q1.2~1~Poor Internet access
+q1.3~0~no  Lack of technical knowledge about how to use colla
+q1.3~1~Lack of technical knowledge about how to use colla
+q1.4~0~no  Lack of trust in the services offered via collabor
+q1.4~1~Lack of trust in the services offered via collabor
+q1.5~0~no  Preference for services offered via traditional ch
+q1.5~1~Preference for services offered via traditional ch
+q1.6~0~no  Concerns about sharing personal data on the platfo
+q1.6~1~Concerns about sharing personal data on the platfo
+q1.7~0~no  Other (DO NOT READ OUT)
+q1.7~1~Other (DO NOT READ OUT)
+q1.8~0~no  DK/NA (DO NOT READ OUT)
+q1.8~1~DK/NA (DO NOT READ OUT)
+q2.1~0~no  Transport (e.g. car sharing)
+q2.1~1~Transport (e.g. car sharing)
+q2.2~0~no  Accommodation (e.g. renting an apartment)
+q2.2~1~Accommodation (e.g. renting an apartment)
+q2.3~0~no  Food-related services (e.g. home delivery, food sh
+q2.3~1~Food-related services (e.g. home delivery, food sh
+q2.4~0~no  Household services (e.g. gardening, repairs, child
+q2.4~1~Household services (e.g. gardening, repairs, child
+q2.5~0~no  Professional services (e.g. IT services, accounting)
+q2.5~1~Professional services (e.g. IT services, accounting)
+q2.6~0~no  Collaborative finance (e.g. peer-to-peer lending o
+q2.6~1~Collaborative finance (e.g. peer-to-peer lending o
+q2.7~0~no  Other (DO NOT READ OUT)
+q2.7~1~Other (DO NOT READ OUT)
+q2.8~0~no  DK/NA (DO NOT READ OUT)
+q2.8~1~DK/NA (DO NOT READ OUT)
+q3~1~You have to some extent replaced the services you
+q3~2~You have completely replaced some types of service
+q3~3~You use services offered via traditional channels
+q3~4~You only started using the services when they beca
+q3~5~None (DO NOT READ OUT)
+q3~6~DK/NA (DO NOT READ OUT)
+q3RGPS~1~Total Use of collaborative platforms replaces traditional ch
+q3RGPS~2~Total Use of collaborative platforms on top of traditional c
+q4.1~0~no  Cheaper or free services offered via collaborative
+q4.1~1~Cheaper or free services offered via collaborative
+q4.2~0~no  A wider choice of services unavailable via traditi
+q4.2~1~A wider choice of services unavailable via traditi
+q4.3~0~no  A more convenient access to services
+q4.3~1~A more convenient access to services
+q4.4~0~no  The availability of ratings and reviews by users
+q4.4~1~The availability of ratings and reviews by users
+q4.5~0~no  The opportunities they offer to interact with inte
+q4.5~1~The opportunities they offer to interact with inte
+q4.6~0~no  Possibility of exchanging services instead of payi
+q4.6~1~Possibility of exchanging services instead of payi
+q4.7~0~no  Other (DO NOT READ OUT)
+q4.7~1~Other (DO NOT READ OUT)
+q4.8~0~no  None, there are no advantages (DO NOT READ OUT)
+q4.8~1~None, there are no advantages (DO NOT READ OUT)
+q4.9~0~no  DK/NA (DO NOT READ OUT)
+q4.9~1~DK/NA (DO NOT READ OUT)
+q5.1~0~no  Problems with the online booking process or payments
+q5.1~1~Problems with the online booking process or payments
+q5.2~0~no  Less trust in the providers of services offered vi
+q5.2~1~Less trust in the providers of services offered vi
+q5.3~0~no  Services offered via collaborative platforms are n
+q5.3~1~Services offered via collaborative platforms are n
+q5.4~0~no  Misleading ratings and reviews from users
+q5.4~1~Misleading ratings and reviews from users
+q5.5~0~no  Lack of clarity about who is responsible in the ev
+q5.5~1~Lack of clarity about who is responsible in the ev
+q5.6~0~no  Misuse of your personal data
+q5.6~1~Misuse of your personal data
+q5.7~0~no  Other (DO NOT READ OUT)
+q5.7~1~Other (DO NOT READ OUT)
+q5.8~0~no  None, there are no significant issues (DO NOT READ OUT)
+q5.8~1~None, there are no significant issues (DO NOT READ OUT)
+q5.9~0~no  DK/NA (DO NOT READ OUT)
+q5.9~1~DK/NA (DO NOT READ OUT)
+q6~1~Yes, definitely
+q6~2~Yes, to some extent
+q6~3~No, not really
+q6~4~No, definitely not
+q6~5~You would recommend some types of services, but no
+q6~6~DK/NA (DO NOT READ OUT)
+q6RGPS~1~Total 'Yes'
+q6RGPS~2~Total 'No'
+q7~1~Yes
+q7~2~No
+q7~3~DK/NA (DO NOT READ OUT)
+q8.1~0~no  No time or interest
+q8.1~1~No time or interest
+q8.2~0~no  Poor Internet access
+q8.2~1~Poor Internet access
+q8.3~0~no  Lack of technical knowledge about how to use colla
+q8.3~1~Lack of technical knowledge about how to use colla
+q8.4~0~no  Lack of trust in the online booking process or payments
+q8.4~1~Lack of trust in the online booking process or payments
+q8.5~0~no  Lack of trust in consumers using your services
+q8.5~1~Lack of trust in consumers using your services
+q8.6~0~no  Unclear or complicated to provide the service legally
+q8.6~1~Unclear or complicated to provide the service legally
+q8.7~0~no  Complicated system for paying tax
+q8.7~1~Complicated system for paying tax
+q8.8~0~no  Unclear impact on your employment status
+q8.8~1~Unclear impact on your employment status
+q8.9~0~no  Other (DO NOT READ OUT)
+q8.9~1~Other (DO NOT READ OUT)
+q8.10~0~no  DK/NA (DO NOT READ OUT)
+q8.10~1~DK/NA (DO NOT READ OUT)
+q9~1~No, never
+q9~2~Yes, once or a few times
+q9~3~Yes, occasionally (i.e. once every few months)
+q9~4~Yes, regularly (i.e. once a month or more often)
+q9~5~DK/NA (DO NOT READ OUT)
+q9RGPS~1~Total 'Yes'
+q10.1~0~no  Transport (e.g. car sharing)
+q10.1~1~Transport (e.g. car sharing)
+q10.2~0~no  Accommodation (e.g. renting an apartment)
+q10.2~1~Accommodation (e.g. renting an apartment)
+q10.3~0~no  Food-related services (e.g. home delivery, food sh
+q10.3~1~Food-related services (e.g. home delivery, food sh
+q10.4~0~no  Household services (e.g. gardening, repairs, child
+q10.4~1~Household services (e.g. gardening, repairs, child
+q10.5~0~no  Professional services (e.g. IT services, accounting)
+q10.5~1~Professional services (e.g. IT services, accounting)
+q10.6~0~no  Collaborative finance (e.g. peer-to-peer lending o
+q10.6~1~Collaborative finance (e.g. peer-to-peer lending o
+q10.7~0~no  Other (DO NOT READ OUT)
+q10.7~1~Other (DO NOT READ OUT)
+q10.8~0~no  None (DO NOT READ OUT)
+q10.8~1~None (DO NOT READ OUT)
+q10.9~0~no  DK/NA (DO NOT READ OUT)
+q10.9~1~DK/NA (DO NOT READ OUT)
+q11.1~0~no  Main source of income
+q11.1~1~Main source of income
+q11.2~0~no  An additional source of income
+q11.2~1~An additional source of income
+q11.3~0~no  Flexible working hours
+q11.3~1~Flexible working hours
+q11.4~0~no  An easy opportunity to become a services provider
+q11.4~1~An easy opportunity to become a services provider
+q11.5~0~no  An opportunity to offer additional or more innovat
+q11.5~1~An opportunity to offer additional or more innovat
+q11.6~0~no  Access to more consumers
+q11.6~1~Access to more consumers
+q11.7~0~no  An easy way to interact with consumers
+q11.7~1~An easy way to interact with consumers
+q11.8~0~no  More sustainable and efficient use of available assets
+q11.8~1~More sustainable and efficient use of available assets
+q11.9~0~no  Other (DO NOT READ OUT)
+q11.9~1~Other (DO NOT READ OUT)
+q11.10~0~no  None (DO NOT READ OUT)
+q11.10~1~None (DO NOT READ OUT)
+q11.11~0~no  DK/NA (DO NOT READ OUT)
+q11.11~1~DK/NA (DO NOT READ OUT)
+q12.1~0~no  Lack of clarity about how to provide the service l
+q12.1~1~Lack of clarity about how to provide the service l
+q12.2~0~no  Complicated or difficult to provide the service legally
+q12.2~1~Complicated or difficult to provide the service legally
+q12.3~0~no  Complicated system for paying tax
+q12.3~1~Complicated system for paying tax
+q12.4~0~no  Unclear impact on your employment status
+q12.4~1~Unclear impact on your employment status
+q12.5~0~no  Difficulties with consumers using your services
+q12.5~1~Difficulties with consumers using your services
+q12.6~0~no  Other (DO NOT READ OUT)
+q12.6~1~Other (DO NOT READ OUT)
+q12.7~0~no  None (DO NOT READ OUT)
+q12.7~1~None (DO NOT READ OUT)
+q12.8~0~no  DK/NA (DO NOT READ OUT)
+q12.8~1~DK/NA (DO NOT READ OUT)
+d1r1~1~15-24
+d1r1~2~25-39
+d1r1~3~40-54
+d1r1~4~55+
+d1r1~5~Refusal
+d1r2~1~15-24
+d1r2~2~25-34
+d1r2~3~35-44
+d1r2~4~45-54
+d1r2~5~55-64
+d1r2~6~65+
+d1r2~7~Refusal
+d2~1~Male
+d2~2~Female
+d3a.1~0~no  Austria
+d3a.1~1~Austria
+d3a.2~0~no  Belgium
+d3a.2~1~Belgium
+d3a.3~0~no  Bulgaria
+d3a.3~1~Bulgaria
+d3a.4~0~no  Czech Republic
+d3a.4~1~Czech Republic
+d3a.5~0~no  Denmark
+d3a.5~1~Denmark
+d3a.6~0~no  Estonia
+d3a.6~1~Estonia
+d3a.7~0~no  Finland
+d3a.7~1~Finland
+d3a.8~0~no  France
+d3a.8~1~France
+d3a.9~0~no  Germany
+d3a.9~1~Germany
+d3a.10~0~no  Greece
+d3a.10~1~Greece
+d3a.11~0~no  Hungary
+d3a.11~1~Hungary
+d3a.12~0~no  Ireland
+d3a.12~1~Ireland
+d3a.13~0~no  Italy
+d3a.13~1~Italy
+d3a.14~0~no  Latvia
+d3a.14~1~Latvia
+d3a.15~0~no  Lithuania
+d3a.15~1~Lithuania
+d3a.16~0~no  Luxembourg
+d3a.16~1~Luxembourg
+d3a.17~0~no  Malta
+d3a.17~1~Malta
+d3a.18~0~no  Netherlands
+d3a.18~1~Netherlands
+d3a.19~0~no  Poland
+d3a.19~1~Poland
+d3a.20~0~no  Portugal
+d3a.20~1~Portugal
+d3a.21~0~no  Republic of Cyprus
+d3a.21~1~Republic of Cyprus
+d3a.22~0~no  Romania
+d3a.22~1~Romania
+d3a.23~0~no  Slovakia
+d3a.23~1~Slovakia
+d3a.24~0~no  Slovenia
+d3a.24~1~Slovenia
+d3a.25~0~no  Spain
+d3a.25~1~Spain
+d3a.26~0~no  Sweden
+d3a.26~1~Sweden
+d3a.27~0~no  United Kingdom (Great Britain, Northern Ireland)
+d3a.27~1~United Kingdom (Great Britain, Northern Ireland)
+d3a.28~0~no  Republic of Croatia
+d3a.28~1~Republic of Croatia
+d3a.29~0~no  -
+d3a.29~1~-
+d3a.30~0~no  -
+d3a.30~1~-
+d3a.31~0~no  -
+d3a.31~1~-
+d3a.32~0~no Croatia
+d3a.32~1~Croatia
+d3a.33~0~no  -
+d3a.33~1~-
+d3a.34~0~no  -
+d3a.34~1~-
+d3a.35~0~no  -
+d3a.35~1~-
+d3a.36~0~no  -
+d3a.36~1~-
+d3a.37~0~no  -
+d3a.37~1~-
+d3a.38~0~no  -
+d3a.38~1~-
+d3a.39~0~no  -
+d3a.39~1~-
+d3a.40~0~no  -
+d3a.40~1~-
+d3a.41~0~no  -
+d3a.41~1~-
+d3a.42~0~no  -
+d3a.42~1~-
+d3a.43~0~no  -
+d3a.43~1~-
+d3a.44~0~no  -
+d3a.44~1~-
+d3a.45~0~no  -
+d3a.45~1~-
+d3a.46~0~no  -
+d3a.46~1~-
+d3a.47~0~no  -
+d3a.47~1~-
+d3a.48~0~no  -
+d3a.48~1~-
+d3a.49~0~no  -
+d3a.49~1~-
+d3a.50~0~no  -
+d3a.50~1~-
+d3a.51~0~no  -
+d3a.51~1~-
+d3a.52~0~no  -
+d3a.52~1~-
+d3a.53~0~no  -
+d3a.53~1~-
+d3a.54~0~no  -
+d3a.54~1~-
+d3a.55~0~no  -
+d3a.55~1~-
+d3a.56~0~no  -
+d3a.56~1~-
+d3a.57~0~no  -
+d3a.57~1~-
+d3a.58~0~no  -
+d3a.58~1~-
+d3a.59~0~no  -
+d3a.59~1~-
+d3a.60~0~no  -
+d3a.60~1~-
+d3a.61~0~no  -
+d3a.61~1~-
+d3a.62~0~no  -
+d3a.62~1~-
+d3a.63~0~no  -
+d3a.63~1~-
+d3a.64~0~no  -
+d3a.64~1~-
+d3a.65~0~no  -
+d3a.65~1~-
+d3a.66~0~no  -
+d3a.66~1~-
+d3a.67~0~no  -
+d3a.67~1~-
+d3a.68~0~no  -
+d3a.68~1~-
+d3a.69~0~no  -
+d3a.69~1~-
+d3a.70~0~no  -
+d3a.70~1~-
+d3a.71~0~no  -
+d3a.71~1~-
+d3a.72~0~no  -
+d3a.72~1~-
+d3a.73~0~no  -
+d3a.73~1~-
+d3a.74~0~no  -
+d3a.74~1~-
+d3a.75~0~no  -
+d3a.75~1~-
+d3a.76~0~no  -
+d3a.76~1~-
+d3a.77~0~no  -
+d3a.77~1~-
+d3a.78~0~no  -
+d3a.78~1~-
+d3a.79~0~no  -
+d3a.79~1~-
+d3a.80~0~no  -
+d3a.80~1~-
+d3a.81~0~no  -
+d3a.81~1~-
+d3a.82~0~no  -
+d3a.82~1~-
+d3a.83~0~no  -
+d3a.83~1~-
+d3a.84~0~no  -
+d3a.84~1~-
+d3a.85~0~no  -
+d3a.85~1~-
+d3a.86~0~no  -
+d3a.86~1~-
+d3a.87~0~no  -
+d3a.87~1~-
+d3a.88~0~no  -
+d3a.88~1~-
+d3a.89~0~no  -
+d3a.89~1~-
+d3a.90~0~no  -
+d3a.90~1~-
+d3a.91~0~no  -
+d3a.91~1~-
+d3a.92~0~no  -
+d3a.92~1~-
+d3a.93~0~no  -
+d3a.93~1~-
+d3a.94~0~no  -
+d3a.94~1~-
+d3a.95~0~no  -
+d3a.95~1~-
+d3a.96~0~no  -
+d3a.96~1~-
+d3a.97~0~no  -
+d3a.97~1~-
+d3a.98~0~no  Other countries
+d3a.98~1~Other countries
+d3a.99~0~no  Refusal
+d3a.99~1~Refusal
+d3b~1~Austria
+d3b~2~Belgium
+d3b~3~Bulgaria
+d3b~4~Czech Republic
+d3b~5~Denmark
+d3b~6~Estonia
+d3b~7~Finland
+d3b~8~France
+d3b~9~Germany
+d3b~10~Greece
+d3b~11~Hungary
+d3b~12~Ireland
+d3b~13~Italy
+d3b~14~Latvia
+d3b~15~Lithuania
+d3b~16~Luxembourg
+d3b~17~Malta
+d3b~18~Netherlands
+d3b~19~Poland
+d3b~20~Portugal
+d3b~21~Republic of Cyprus
+d3b~22~Romania
+d3b~23~Slovakia
+d3b~24~Slovenia
+d3b~25~Spain
+d3b~26~Sweden
+d3b~27~United Kingdom (Great Britain, Northern Ireland)
+d3b~28~Turkey
+d3b~29~Russia
+d3b~30~Switerland
+d3b~31~Northern Cyprus
+d3b~32~Croatia
+d3b~33~Iceland
+d3b~34~Macedonia
+d3b~35~Norway
+d3b~36~Usa
+d3b~37~Brazil
+d3b~38~Israel
+d3b~39~Japan
+d3b~40~South Korea
+d3b~41~China
+d3b~42~India
+d3b~43~Other countries
+d3b~44~Refusal
+d4~1~15-
+d4~2~16-19
+d4~3~20+
+d4~4~Still Studying
+d4~5~No full-time education
+d4~6~Refusal
+d4~7~DK
+d5~1~Farmer, forester, fisherman
+d5~2~Owner of shop, craftsman
+d5~3~Professional (lawyer, medical practitioner, accountant, arch
+d5~4~Manager of a company
+d5~5~Other (Self-employed)
+d5~6~Professional (employed doctor, lawyer, accountant, architect
+d5~7~General management, director or top management
+d5~8~Middle management
+d5~9~Civil servant
+d5~10~Office clerk
+d5~11~Other employee (salesman, nurse, ...)
+d5~12~Other (Employee)
+d5~13~Supervisor\ foreman (team manager, ...)
+d5~14~Manual worker
+d5~15~Unskilled manual worker
+d5~16~Other (Manual worker)
+d5~17~Looking after the home
+d5~18~Student (full time)
+d5~19~Retired
+d5~20~Seeking a job
+d5~21~Other (Without a professional activity)
+d5~22~Refusal
+d13~1~Rural area or village
+d13~2~Small or middle sized town
+d13~3~Large town
+d13~4~DK (DO NOT READ OUT)
+d18~1~Yes
+d18~2~No
+d20~1~Yes
+d20~2~No
+d22~1~1
+d22~2~2
+d22~3~3
+d22~4~4+
+d22~5~DK
+d22~6~Refusal
+d12be~1~Antwerpen
+d12be~2~Vlaams Brabant
+d12be~3~Brussels hoofdstedelijk gewest
+d12be~4~West-Vlaanderen
+d12be~5~Oost-Vlaanderen
+d12be~6~Limburg
+d12be~7~Brabant Wallon
+d12be~8~Hainaut
+d12be~9~Namur
+d12be~10~Luxembourg
+d12be~11~Liège
+d12be~12~DK
+d12rbe~1~Brussels hoofdstedelijk gewest
+d12rbe~2~Vlaams gewest
+d12rbe~3~Région Wallone
+d12rbe~4~DK
+d12at~1~Vorarlberg
+d12at~2~Tirol
+d12at~3~Salzburg
+d12at~4~Oberösterreich
+d12at~5~Kärnten/Osttirol
+d12at~6~Steiermark
+d12at~7~Burgenland
+d12at~8~Niederösterreich
+d12at~9~Wien
+d12at~10~DK
+d12rat~1~Ost-Österreich
+d12rat~2~Süd-Österreich
+d12rat~3~West-Österreich
+d12rat~4~DK
+d12bg~1~Severozapaden
+d12bg~2~Severen tsentralen
+d12bg~3~Severoiztochen
+d12bg~4~Yugoiztochen
+d12bg~5~Yugozapaden
+d12bg~6~Yuzhen tsentralen
+d12bg~7~DK
+d12cyr~1~Nicocia
+d12cyr~2~Limassol
+d12cyr~3~Larnaca
+d12cyr~4~Paphos
+d12cyr~5~Famagusta
+d12cyr~6~DK
+d12cz~1~Praha
+d12cz~2~Stredni Cechy
+d12cz~3~Jihozapad
+d12cz~4~Severozapad
+d12cz~5~Severovychod
+d12cz~6~Jihovychod
+d12cz~7~Stredni Morava
+d12cz~8~Moravskoslezsko
+d12cz~9~DK
+d12dk~1~Hovedstaden
+d12dk~2~Sjælland
+d12dk~3~Syddanmark
+d12dk~4~Midtjylland
+d12dk~5~Nordjylland
+d12dk~6~DK
+d12ee~1~Põhja-Eesti
+d12ee~2~Lääne-Eesti
+d12ee~3~Kesk-Eesti
+d12ee~4~Kirde-Eesti
+d12ee~5~Lõuna-Eesti
+d12ee~6~DK
+d12de~1~Schleswig-Holstein
+d12de~2~Hamburg
+d12de~3~Niedersachsen
+d12de~4~Bremen
+d12de~5~Nordrhein-Westfalen
+d12de~6~Hessen
+d12de~7~Rheinland-Pfalz
+d12de~8~Baden-Wurttemberg
+d12de~9~Bayern
+d12de~10~Saarland
+d12de~11~Berlin
+d12de~12~Brandenburg
+d12de~13~Mecklenburg-Vorpommern
+d12de~14~Sachsen
+d12de~15~Sachsen-Anhalt
+d12de~16~Thuringen
+d12de~17~DK
+d12el~1~Anatoliki Makedonia, Thraki
+d12el~2~Kentriki Makedonia
+d12el~3~Ditiki Makedonia
+d12el~4~Thessalia
+d12el~5~Ipiros
+d12el~6~Ditiki Ellada
+d12el~7~Sterea Ellada Evia
+d12el~8~Peloponnissos
+d12el~9~Attiki
+d12el~10~Kriti
+d12el~11~DK
+d12rel~1~Voreia ellada
+d12rel~2~Kentriki ellada
+d12rel~3~Attiki
+d12rel~4~Nisia aigaiou, kriti
+d12rel~5~DK
+d12es~1~Andalucia
+d12es~2~Aragon
+d12es~3~Asturias
+d12es~4~Baleares
+d12es~5~Canarias
+d12es~6~Cantabria
+d12es~7~Castilla/La Mancha
+d12es~8~Castilla/Leon
+d12es~9~Cataluna
+d12es~10~Extremadura
+d12es~11~Galicia
+d12es~12~Madrid
+d12es~13~Murcia
+d12es~14~Navarra
+d12es~15~Valencia
+d12es~16~Pais Vasco
+d12es~17~Rioja
+d12es~18~DK
+d12res~1~Noroeste
+d12res~2~Noreste
+d12res~3~Madrid
+d12res~4~Centro (E)
+d12res~5~Este
+d12res~6~Sur
+d12res~7~Canarias
+d12res~8~DK
+d12fi~1~Länsi-Suomi
+d12fi~2~Helsinki-Uusimaa
+d12fi~3~Etelä-Suomi
+d12fi~4~Pohjois- ja Itä-Suomi
+d12fi~5~DK
+d12fr~1~Ile de France
+d12fr~2~Champagne-Ardenne
+d12fr~3~Picardie
+d12fr~4~Haute Normandie
+d12fr~5~Centre
+d12fr~6~Basse Normandie
+d12fr~7~Bourgogne
+d12fr~8~Nord- Pas de Calais
+d12fr~9~Lorraine
+d12fr~10~Alsace
+d12fr~11~Franche-Comté
+d12fr~12~Pays de la Loire
+d12fr~13~Bretagne
+d12fr~14~Poitou-Charentes
+d12fr~15~Aquitaine
+d12fr~16~Midi-Pyrénées
+d12fr~17~Limousin
+d12fr~18~Rhône Alpes
+d12fr~19~Auvergne
+d12fr~20~Languedoc-Roussillon
+d12fr~21~Provence-Alpes-Côte d'Azur
+d12fr~22~DK
+d12rfr~1~Ile de France
+d12rfr~2~Bassin Parisien
+d12rfr~3~Nord-Pas-De-Calais
+d12rfr~4~Est
+d12rfr~5~Ouest
+d12rfr~6~Sud-Ouest
+d12rfr~7~Centre-Est
+d12rfr~8~Mediterranee
+d12rfr~9~DK
+d12uk~1~UKC - North East
+d12uk~2~UKD - North West
+d12uk~3~UKE - Yorkshire and The humber
+d12uk~4~UKF - East midlands
+d12uk~5~UKG - West Midlands
+d12uk~6~UKH - East of England
+d12uk~7~UKI - London
+d12uk~8~UKJ - South East
+d12uk~9~UKK - South West
+d12uk~10~UKL - Wales
+d12uk~11~UKM - Scotland
+d12uk~12~Northern Ireland
+d12uk~13~DK
+d12hu~1~Central Hungary
+d12hu~2~North Hungary
+d12hu~3~North Great Plain
+d12hu~4~South Great Plain
+d12hu~5~South Transdanubia
+d12hu~6~North Transdanubia
+d12hu~7~West Transdanubia
+d12hu~8~DK
+d12ie~1~Border
+d12ie~2~Midland
+d12ie~3~West
+d12ie~4~Dublin
+d12ie~5~Mid-East
+d12ie~6~Mid-West
+d12ie~7~South-East
+d12ie~8~South-West
+d12ie~9~DK
+d12it~1~Liguria
+d12it~2~Lombardia
+d12it~3~Piemonte/Valle d'Aosta
+d12it~4~Emilia Romagna
+d12it~5~Friuli V.G.
+d12it~6~Trentino A.A.
+d12it~7~Veneto
+d12it~8~Lazio
+d12it~9~Marche
+d12it~10~Toscana
+d12it~11~Umbria
+d12it~12~Abbruzzo/Molise
+d12it~13~Calabria
+d12it~14~Campania
+d12it~15~Puglia/Basilicata
+d12it~16~Sardegna
+d12it~17~Sicilia
+d12it~18~DK
+d12rit~1~Nord-Ouest
+d12rit~2~Nord-Est
+d12rit~3~Centro
+d12rit~4~Sud
+d12rit~5~Isole
+d12rit~6~DK
+d12lt~1~Vilnius county
+d12lt~2~Utena county
+d12lt~3~Kaunas county
+d12lt~4~Alytus county
+d12lt~5~Marijampole county
+d12lt~6~Panevezys county
+d12lt~7~Siauliai county
+d12lt~8~Taurage county
+d12lt~9~Telsiai county
+d12lt~10~Klaipeda county
+d12lt~11~DK
+d12lu~1~Centre
+d12lu~2~Sud
+d12lu~3~Nord
+d12lu~4~Est
+d12lu~5~DK
+d12lv~1~Riga
+d12lv~2~Pieriga
+d12lv~3~Vidzeme
+d12lv~4~Kurzeme
+d12lv~5~Zemgale
+d12lv~6~Latgale
+d12lv~7~DK
+d12nl~1~Groningen
+d12nl~2~Friesland
+d12nl~3~Drenthe
+d12nl~4~Overijssel
+d12nl~5~Flevoland
+d12nl~6~Gelderland
+d12nl~7~Utrecht
+d12nl~8~Noord-Holland
+d12nl~9~Zuid-Holland
+d12nl~10~Zeeland
+d12nl~11~Noord-Brabant
+d12nl~12~Limburg
+d12nl~13~DK
+d12rnl~1~Noord Nederland
+d12rnl~2~Oost Nederland
+d12rnl~3~West Nederland
+d12rnl~4~Zuid Nederland
+d12rnl~5~DK
+d12pl~1~Dolnoslaskie
+d12pl~2~Kujawsko-pomorskie
+d12pl~3~Lubelskie
+d12pl~4~Lubuskie
+d12pl~5~Lódzkie
+d12pl~6~Malopolskie
+d12pl~7~Mazowieckie
+d12pl~8~Opolskie
+d12pl~9~Podkarpackie
+d12pl~10~Podlaskie
+d12pl~11~Pomorskie
+d12pl~12~Slaskie
+d12pl~13~Swietokrzyskie
+d12pl~14~Warminsko-mazurskie
+d12pl~15~Wielkopolskie
+d12pl~16~Zachodniopomorskie
+d12pl~17~DK
+d12rpl~1~Centralny
+d12rpl~2~Poludniowy
+d12rpl~3~Wschodni
+d12rpl~4~Polnocno-zachodni
+d12rpl~5~Poludniowo-zachodni
+d12rpl~6~Polnocny
+d12rpl~7~DK
+d12pt~1~Norte
+d12pt~2~Centro
+d12pt~3~Lisboa e Vale do Tejo
+d12pt~4~Alentejo
+d12pt~5~Algarve
+d12pt~6~DK
+d12ro~1~North-East
+d12ro~2~South-East
+d12ro~3~South
+d12ro~4~South-West
+d12ro~5~West
+d12ro~6~North-West
+d12ro~7~Central
+d12ro~8~Bucharest
+d12ro~9~DK
+d12se~1~Stockholm
+d12se~2~Östra Mellansverige
+d12se~3~Småland med öarna
+d12se~4~Sydsverige
+d12se~5~Västsverige
+d12se~6~Norra Mellansverige
+d12se~7~Mellersta Norrland
+d12se~8~Övre Norrland
+d12se~9~DK
+d12si~1~Pomurska
+d12si~2~Podravska
+d12si~3~Koroska
+d12si~4~Savinjska
+d12si~5~Zasavska
+d12si~6~Spodnjeposavska
+d12si~7~Gorenjska
+d12si~8~Notranjsko-kraska
+d12si~9~Goriska
+d12si~10~Obalno-Kraska
+d12si~11~Jugovzhodna Slovenija
+d12si~12~Osrednjeslovenska
+d12si~13~DK
+d12sk~1~SK01 Bratislavský kraj
+d12sk~2~SK02 Západné Slovensko
+d12sk~3~SK03 Stredné Slovensko
+d12sk~4~SK04 Východné Slovensko
+d12sk~5~DK
+d12mt~1~Northern Harbour District
+d12mt~2~Southern Harbour District
+d12mt~3~Western District
+d12mt~4~Northern District
+d12mt~5~South Eastern District
+d12mt~6~Gozo and Comino District
+d12mt~7~DK
+d12hr~1~Jadranska
+d12hr~2~Kontinentalna
+d12hr~3~DK
+vbel~1~BE
+vbel~2~-
+vden~1~DK
+vden~2~-
+vwge~1~D-W
+vwge~2~-
+vgre~1~GR
+vgre~2~-
+vspa~1~ES
+vspa~2~-
+vfra~1~FR
+vfra~2~-
+virl~1~IE
+virl~2~-
+vita~1~IT
+vita~2~-
+vlux~1~LU
+vlux~2~-
+vnet~1~NL
+vnet~2~-
+vaut~1~AT
+vaut~2~-
+vpor~1~PT
+vpor~2~-
+vfin~1~FI
+vfin~2~-
+vswe~1~SE
+vswe~2~-
+vuk~1~UK
+vuk~2~-
+vcyr~1~CYR
+vcyr~2~-
+vcz~1~CZ
+vcz~2~-
+vee~1~EE
+vee~2~-
+vhu~1~HU
+vhu~2~-
+vlv~1~LV
+vlv~2~-
+vlt~1~LT
+vlt~2~-
+vmt~1~MT
+vmt~2~-
+vpl~1~PL
+vpl~2~-
+vsk~1~SK
+vsk~2~-
+vsi~1~SI
+vsi~2~-
+vbul~1~BG
+vbul~2~-
+vro~1~RO
+vro~2~-
+vhr~1~HR
+vhr~2~-
+veu6~1~EU 6
+veu6~2~-
+veu9~1~EU 9
+veu9~2~-
+veu10~1~EU 10
+veu10~2~-
+veu12m~1~EU 12-
+veu12m~2~-
+veu12~1~EU 12
+veu12~2~-
+veunew3~1~EU new 3
+veunew3~2~-
+veu15~1~EU 15
+veu15~2~-
+veuzone~1~EURO ZONE
+veuzone~2~-
+vnzone~1~NON EURO 13
+vnzone~2~-
+vnpm10~1~NPM10
+vnpm10~2~-
+vnpm12~1~NPM12
+vnpm12~2~-
+vnpm13~1~NPM13
+vnpm13~2~-
+veu25~1~EU 25
+veu25~2~-
+veu27~1~EU 27
+veu27~2~-
+veu28~1~EU28
+veu28~2~-
+veu28uk~1~EU 28-UK
+veu28uk~2~-
+veuzone1~1~EURO ZONE
+veuzone1~2~-
+vnzone15~1~NON EURO 15
+vnzone15~2~-
+veuzo16~1~EURO ZONE
+veuzo16~2~-
+vnzo16~1~NON EURO 16
+vnzo16~2~-
+vneums~1~NON EURO MS
+vneums~2~-
+vneunms~1~NON EURO NMS
+vneunms~2~-
+veuzo17~1~EURO ZONE 17
+veuzo17~2~-
+vnzo17~1~NON EURO 17
+vnzo17~2~-
+vz18~1~EURO ZONE 18
+vz18~2~NON EURO 18
+veuzo18~1~EURO ZONE 18
+veuzo18~2~-
+vnzo18~1~NON EURO 18
+vnzo18~2~-
+vz19~1~EURO ZONE 19
+vz19~2~NON EURO 19
+veuzo19~1~EURO ZONE 19
+veuzo19~2~-
+vnzo19~1~NON EURO 19
+vnzo19~2~-
+vez~1~EUROZONE
+vez~2~NON EUROZONE
+veu~1~EU
+veu~2~NON EU
+brk2~1~Self-employed
+brk2~2~employees
+brk2~3~Manual workers
+brk2~4~Not working
+brk2~5~Refusal
+brk3~1~Mobile only
+brk3~2~Landline only
+brk3~3~Mobile &Landline

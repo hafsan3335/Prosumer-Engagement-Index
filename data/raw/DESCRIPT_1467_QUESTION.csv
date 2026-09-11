@@ -1,0 +1,327 @@
+﻿Variable~Position~Etiquette
+flnum~1~Flash number
+b~2~Country name
+vc~3~Interview number
+vcc~4~Interview number
+ph1~5~PH1 - Type of phone line
+d8~6~D8 Have you ever used a service offered via a collaborative platform?
+d8RGPS~7~D8 Have you ever used a service offered via a collaborative platform?
+d9~8~D9 Have you ever offered a service via a collaborative platform?
+d9RGPS~9~D9 Have you ever offered a service via a collaborative platform?
+d8d9~10~D8_D9 - User-provider profile
+q1.1~11~Q1 For which of the following reasons have you never used a service offered via a collaborative platform?
+q1.2~12~Q1 For which of the following reasons have you never used a service offered via a collaborative platform?
+q1.3~13~Q1 For which of the following reasons have you never used a service offered via a collaborative platform?
+q1.4~14~Q1 For which of the following reasons have you never used a service offered via a collaborative platform?
+q1.5~15~Q1 For which of the following reasons have you never used a service offered via a collaborative platform?
+q1.6~16~Q1 For which of the following reasons have you never used a service offered via a collaborative platform?
+q1.7~17~Q1 For which of the following reasons have you never used a service offered via a collaborative platform?
+q1.8~18~Q1 For which of the following reasons have you never used a service offered via a collaborative platform?
+q2.1~19~Q2 In which of the following sectors have you used a service offered via a collaborative platform?
+q2.2~20~Q2 In which of the following sectors have you used a service offered via a collaborative platform?
+q2.3~21~Q2 In which of the following sectors have you used a service offered via a collaborative platform?
+q2.4~22~Q2 In which of the following sectors have you used a service offered via a collaborative platform?
+q2.5~23~Q2 In which of the following sectors have you used a service offered via a collaborative platform?
+q2.6~24~Q2 In which of the following sectors have you used a service offered via a collaborative platform?
+q2.7~25~Q2 In which of the following sectors have you used a service offered via a collaborative platform?
+q2.8~26~Q2 In which of the following sectors have you used a service offered via a collaborative platform?
+q3~27~Q3 Thinking about your overall experience with services offered via collaborative platforms in the last 12 months, which of the following statements best describes your experience?
+q3RGPS~28~Q3 Thinking about your overall experience with services offered via collaborative platforms in the last 12 months, which of the following statements best describes your experience?
+q4.1~29~Q4 In your personal experience, what are the advantages of using collaborative platforms compared with traditional channels, if any?
+q4.2~30~Q4 In your personal experience, what are the advantages of using collaborative platforms compared with traditional channels, if any?
+q4.3~31~Q4 In your personal experience, what are the advantages of using collaborative platforms compared with traditional channels, if any?
+q4.4~32~Q4 In your personal experience, what are the advantages of using collaborative platforms compared with traditional channels, if any?
+q4.5~33~Q4 In your personal experience, what are the advantages of using collaborative platforms compared with traditional channels, if any?
+q4.6~34~Q4 In your personal experience, what are the advantages of using collaborative platforms compared with traditional channels, if any?
+q4.7~35~Q4 In your personal experience, what are the advantages of using collaborative platforms compared with traditional channels, if any?
+q4.8~36~Q4 In your personal experience, what are the advantages of using collaborative platforms compared with traditional channels, if any?
+q4.9~37~Q4 In your personal experience, what are the advantages of using collaborative platforms compared with traditional channels, if any?
+q5.1~38~Q5 In your personal experience, what are the disadvantages of using collaborative platforms compared with traditional channels, if any?
+q5.2~39~Q5 In your personal experience, what are the disadvantages of using collaborative platforms compared with traditional channels, if any?
+q5.3~40~Q5 In your personal experience, what are the disadvantages of using collaborative platforms compared with traditional channels, if any?
+q5.4~41~Q5 In your personal experience, what are the disadvantages of using collaborative platforms compared with traditional channels, if any?
+q5.5~42~Q5 In your personal experience, what are the disadvantages of using collaborative platforms compared with traditional channels, if any?
+q5.6~43~Q5 In your personal experience, what are the disadvantages of using collaborative platforms compared with traditional channels, if any?
+q5.7~44~Q5 In your personal experience, what are the disadvantages of using collaborative platforms compared with traditional channels, if any?
+q5.8~45~Q5 In your personal experience, what are the disadvantages of using collaborative platforms compared with traditional channels, if any?
+q5.9~46~Q5 In your personal experience, what are the disadvantages of using collaborative platforms compared with traditional channels, if any?
+q6~47~Q6 Overall, would you recommend services offered via collaborative platforms or not?
+q6RGPS~48~Q6 Overall, would you recommend services offered via collaborative platforms or not?
+q7~49~Q7 Would you consider offering services occasionally as a private individual via collaborative platforms?
+q8.1~50~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q8.2~51~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q8.3~52~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q8.4~53~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q8.5~54~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q8.6~55~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q8.7~56~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q8.8~57~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q8.9~58~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q8.10~59~Q8 For which of the following reasons have you never offered a service via a collaborative platform?
+q9~60~Q9 Have you ever offered services occasionally as a private individual via traditional channels?
+q9RGPS~61~Q9 Have you ever offered services occasionally as a private individual via traditional channels?
+q10.1~62~Q10 In which of the following sectors have you provided a service via a collaborative platform?
+q10.2~63~Q10 In which of the following sectors have you provided a service via a collaborative platform?
+q10.3~64~Q10 In which of the following sectors have you provided a service via a collaborative platform?
+q10.4~65~Q10 In which of the following sectors have you provided a service via a collaborative platform?
+q10.5~66~Q10 In which of the following sectors have you provided a service via a collaborative platform?
+q10.6~67~Q10 In which of the following sectors have you provided a service via a collaborative platform?
+q10.7~68~Q10 In which of the following sectors have you provided a service via a collaborative platform?
+q10.8~69~Q10 In which of the following sectors have you provided a service via a collaborative platform?
+q10.9~70~Q10 In which of the following sectors have you provided a service via a collaborative platform?
+q11.1~71~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.2~72~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.3~73~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.4~74~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.5~75~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.6~76~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.7~77~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.8~78~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.9~79~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.10~80~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q11.11~81~Q11 For which of the following reasons do you offer services via collaborative platforms?
+q12.1~82~Q12 What are the main problems you encountered when providing services via a collaborative platform, if any?
+q12.2~83~Q12 What are the main problems you encountered when providing services via a collaborative platform, if any?
+q12.3~84~Q12 What are the main problems you encountered when providing services via a collaborative platform, if any?
+q12.4~85~Q12 What are the main problems you encountered when providing services via a collaborative platform, if any?
+q12.5~86~Q12 What are the main problems you encountered when providing services via a collaborative platform, if any?
+q12.6~87~Q12 What are the main problems you encountered when providing services via a collaborative platform, if any?
+q12.7~88~Q12 What are the main problems you encountered when providing services via a collaborative platform, if any?
+q12.8~89~Q12 What are the main problems you encountered when providing services via a collaborative platform, if any?
+vd1~90~D1_2 How old are you?
+d1r1~91~D1_1 How old are you?
+d1r2~92~D1_2 How old are you?
+d2~93~D2 Gender.
+d3a.1~94~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.2~95~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.3~96~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.4~97~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.5~98~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.6~99~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.7~100~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.8~101~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.9~102~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.10~103~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.11~104~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.12~105~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.13~106~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.14~107~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.15~108~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.16~109~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.17~110~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.18~111~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.19~112~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.20~113~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.21~114~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.22~115~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.23~116~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.24~117~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.25~118~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.26~119~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.27~120~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.28~121~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.29~122~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.30~123~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.31~124~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.32~125~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.33~126~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.34~127~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.35~128~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.36~129~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.37~130~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.38~131~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.39~132~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.40~133~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.41~134~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.42~135~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.43~136~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.44~137~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.45~138~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.46~139~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.47~140~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.48~141~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.49~142~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.50~143~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.51~144~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.52~145~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.53~146~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.54~147~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.55~148~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.56~149~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.57~150~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.58~151~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.59~152~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.60~153~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.61~154~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.62~155~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.63~156~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.64~157~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.65~158~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.66~159~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.67~160~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.68~161~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.69~162~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.70~163~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.71~164~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.72~165~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.73~166~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.74~167~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.75~168~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.76~169~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.77~170~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.78~171~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.79~172~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.80~173~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.81~174~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.82~175~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.83~176~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.84~177~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.85~178~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.86~179~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.87~180~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.88~181~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.89~182~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.90~183~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.91~184~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.92~185~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.93~186~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.94~187~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.95~188~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.96~189~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.97~190~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.98~191~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3a.99~192~D3a What is your nationality? Please tell me the country(ies) that applies(y).
+d3b~193~D3b What is your nationality? Please tell me the country(ies) that applies(y).
+vd4~194~D4 How old were you when you stopped full-time education?
+d4~195~D4 How old were you when you stopped full-time education?
+d5~196~D5 - As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity? Does it mean that you are a&
+d13~197~D13 Would you say you live in a...?
+d18~198~D18 - Have you got a mobile phone?
+d20~199~D20 - Have you got a landline phone?
+vd22~200~D22 Could you tell me how many people aged 15 years or more live in your household, yourself included?
+d22~201~D22 Could you tell me how many people aged 15 years or more live in your household, yourself included?
+d12be~202~Region BE
+d12rbe~203~Region BE_RGPS
+d12at~204~Region AT
+d12rat~205~Region AT_RGPS
+d12bg~206~Region BG
+d12cyr~207~Region CY
+d12cz~208~Region CZ
+d12dk~209~Region DK
+d12ee~210~Region EE
+d12de~211~Region DE
+d12el~212~Region EL
+d12rel~213~Region EL_RGPS
+d12es~214~Region ES
+d12res~215~Region ES_RGPS
+d12fi~216~Region FI
+d12fr~217~Region FR
+d12rfr~218~Region FR_RGPS
+d12uk~219~Region UK
+d12hu~220~Region HU
+d12ie~221~Region IE
+d12it~222~Region IT
+d12rit~223~Region IT_RGPS
+d12lt~224~Region LT
+d12lu~225~Region LU
+d12lv~226~Region LV
+d12nl~227~Region NL
+d12rnl~228~Region NL_RGPS
+d12pl~229~Region PL
+d12rpl~230~Region PL_RGPS
+d12pt~231~Region PT
+d12ro~232~Region RO
+d12se~233~Region SE
+d12si~234~Region SI
+d12sk~235~Region SK
+d12mt~236~Region MT
+d12hr~237~Region HR
+vbel~238~VBEL : BE
+vden~239~VDEN : DK
+vwge~240~VGER : DE
+vgre~241~VGRE : EL
+vspa~242~VSPA : ES
+vfra~243~VFRA : FR
+virl~244~VIRL : IE
+vita~245~VITA : IT
+vlux~246~VLUX : LU
+vnet~247~VNET : NL
+vaut~248~VAUT : AT
+vpor~249~VPOR : PT
+vfin~250~VFIN : FI
+vswe~251~VSWE : SE
+vuk~252~VGB : UK
+vcyr~253~VCYPR : CYR
+vcz~254~VCZ : CZ
+vee~255~VEE : EE
+vhu~256~VHU : HU
+vlv~257~VLV : LV
+vlt~258~VLT : LT
+vmt~259~VMT : MT
+vpl~260~VPL : PL
+vsk~261~VSK : SK
+vsi~262~VSI : SI
+vbul~263~VBUL : BG
+vro~264~VRO : RO
+vhr~265~VHR : HR
+veu6~266~VEU6 : EU 6
+veu9~267~VEU9 : EU 9
+veu10~268~VEU10 : EU 10
+veu12m~269~VEU12m : EU 12-
+veu12~270~VEU12 : EU 12
+veunew3~271~VEUnew3 : EU new 3
+veu15~272~VEU15 : EU 15
+veuzone~273~VEUZONE : EURO ZONE 13
+vnzone~274~VNZONE : NON EURO ZONE 13
+vnpm10~275~VNPM10 : NPM 10
+vnpm12~276~VNPM12 : NPM 12
+vnpm13~277~VNPM13 : NPM 13
+veu25~278~VEU25 : EU 25
+veu27~279~VEU27 : EU 27
+veu28~280~VEU28 : EU 28
+veu28uk~281~VEU28UK : EU 28-UK
+veuzone1~282~VEUZONE : EURO ZONE 15
+vnzone15~283~VNZONE : NON EURO ZONE 15
+veuzo16~284~VEUZONE : EURO ZONE 16
+vnzo16~285~VNZONE : NON EURO ZONE 16
+vneums~286~VNEUMS : NON EURO ZONE MS
+vneunms~287~VNEUNMS : NON EURO ZONE NMS
+veuzo17~288~VEUZONE : EURO ZONE 17
+vnzo17~289~VNZONE : NON EURO ZONE 17
+vz18~290~VZONE : EURO ZONE 18
+veuzo18~291~VEUZONE : EURO ZONE 18
+vnzo18~292~VNZONE : NON EURO ZONE 18
+vz19~293~VZONE : EURO ZONE 19
+veuzo19~294~VEUZONE : EURO ZONE 19
+vnzo19~295~VNZONE : NON EURO ZONE 19
+vez~296~VEZ : differentiating between eurozone and non-eurozone
+veu~297~VEU : EU
+brk2~298~D5 - Respondant occupation scale
+brk3~299~D18D20 Landline/mobile
+wex~300~W.EX - Weight extra
+w1~301~W.1 - Weight result from target
+w5~302~W.5 - Weight Euro 6
+w6~303~W.6 - Weight Euro 9
+w7~304~W.7 - Weight Euro 10
+w9~305~W.9 - Weight Euro 12
+w10~306~W.10 - Weight Euro New 3
+w11~307~W.11 - Weight Euro 15
+w13~308~W.13 - Weight NMS 10
+w14~309~W.14 - Weight Euro 25
+w22~310~W.22 - Weight Euro 27
+w23~311~W.23 - Weight Euro 28
+w24~312~W.24 - Weight NMS 12
+w29~313~W.29 - Weight Euro Zone 15
+w30~314~W.30 - Weight No Euro Zone 15
+w81~315~W.81 - Weight Zone Euro 16
+w82~316~W.82 - Weight No Euro Zone 16
+w83~317~W.83 - Weight No Euro Zone MS
+w84~318~W.84 - Weight No Euro Zone NMS
+w87~319~W.87 - Weight Euro 28-UK
+w89~320~W.89 - Weight Zone Euro 17
+w90~321~W.90 - Weight No Euro Zone 17
+w94~322~W.94 - Weight NMS 13
+w95~323~W.95 - Weight Zone Euro 18
+w96~324~W.96 - Weight No Euro Zone 18
+w97~325~W.97 - Weight Zone Euro 19
+w98~326~W.98 - Weight No Euro Zone 19
